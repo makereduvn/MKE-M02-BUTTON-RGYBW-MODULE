@@ -41,7 +41,7 @@ Mạch nút nhấn MKE-M02 Button RGYBW Module hỗ trợ điện áp điều kh
   </tr>
   <tr>
     <td>SIG</td>
-    <td>Chân tín hiệu DIGITAL OUT</td>
+    <td>Chân tín hiệu Digital Out</td>
   </tr>
 </tbody>
 </table>
@@ -89,5 +89,6 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M02 Button](/extras/MKE-M02_2.png)
 ![MKE-M02 Button](/extras/MKE-M02_3.png)
+
 
 

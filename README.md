@@ -49,7 +49,7 @@ Mạch nút nhấn MKE-M02 Button RGYBW Module hỗ trợ điện áp điều kh
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
 - Cấp nguồn 5VDC cho mạch qua hai chân GND và 5V.
-- Điều khiển đèn Led qua chân tín hiệu SIG.
+- Nhận tín hiệu từ nút nhấn qua chân tín hiệu SIG.
 <table><thead>
   <tr>
     <th>SIG (Digital Out)</th>
@@ -89,3 +89,4 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M02 Button](/extras/MKE-M02_2.png)
 ![MKE-M02 Button](/extras/MKE-M02_3.png)
+

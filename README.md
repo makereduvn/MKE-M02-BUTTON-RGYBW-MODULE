@@ -57,7 +57,7 @@ Mạch nút nhấn MKE-M02 Button RGYBW Module hỗ trợ điện áp điều kh
   </tr></thead>
 <tbody>
   <tr>
-    <td>TTL HIGH (3.3/5VDC)</td>
+    <td>TTL HIGH (3.3VDC)</td>
     <td>Hoạt động (On)</td>
   </tr>
   <tr>
@@ -89,4 +89,5 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M02 Button](/extras/MKE-M02_2.png)
 ![MKE-M02 Button](/extras/MKE-M02_3.png)
+
 

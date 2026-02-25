@@ -5,7 +5,7 @@ MKE-M02 Button RGYBW Module là mạch nút nhấn đơn sử dụng nút nhấn
 
 Mạch nút nhấn MKE-M02 Button RGYBW Module đặc biệt phù hợp cho các ứng dụng điều khiển đơn giản, mô hình robot, dự án STEM, đồ án học tập và thực hành điện tử. Nút nhấn được trang bị nắp chụp nhiều màu sắc giúp dễ dàng phân biệt trong quá trình lắp đặt và sử dụng với 5 phiên bản màu gồm: Đỏ, Xanh lá, Vàng, Xanh dương và Trắng, đáp ứng đa dạng nhu cầu ứng dụng.
 
-Mạch nút nhấn MKE-M02 Button RGYBW Module hỗ trợ điện áp điều khiển 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện khi sử dụng.
+Mạch nút nhấn MKE-M02 Button RGYBW Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện khi sử dụng.
 
 ## Thông số kỹ thuật
 - Điện áp cấp nguồn: 5VDC
@@ -89,6 +89,7 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M02 Button](/extras/MKE-M02_2.png)
 ![MKE-M02 Button](/extras/MKE-M02_3.png)
+
 
 
 
